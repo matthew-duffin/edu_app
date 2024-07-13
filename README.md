@@ -1,9 +1,7 @@
 **************************************************************************************************************************
 Authors:     Jacob Ormsby, Jonathan Bancroft, Aric Woodliff, Jiedi Mo, Matthew Duffin, Adrian Regalado.
 Date:       9-Dec-2023,
-Course:     CS 3505, University of Utah, School of Computing,
 GitHub ID:  21jormsby, JonBancroft, Aric-W, shotpb, matthew-duffin, AdrianRegalado1123
-Repo:       https://github.com/University-of-Utah-CS3505/a9-edu-app-AdrianRegalado1123,
 Project:    TacticsGame,
 Copyright:  CS 3505, Jacob Ormsby, Jonathan Bancroft, Aric Woodliff, Jiedi Mo, Matthew Duffin, Adrian Regalado - This work may not be copied for use in Academic Coursework.
 **************************************************************************************************************************
