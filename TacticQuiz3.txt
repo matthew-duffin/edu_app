@@ -1,0 +1,51 @@
+How does Defeat-In-Detail disrupt communication?
+#QuizQuestion
+By keeping different enemy units together.
+#Choice1
+Disabling or disrupting systems required for one defending unit to support another.
+#Choice2
+Because Defeat-In-Detail involves encircling the entire enemy force.
+#Choice3
+All of the above.
+#Choice4
+2
+#CorrectAnswer
+
+How can a commander avoid an enemy attempt to Defeat-In-Detail?
+#QuizQuestion
+By splitting up forces.
+#Choice1
+By planning an ambush.
+#Choice2
+Both choice 1 and choice 2.
+#Choice3
+By keeping forces within supporting distance.
+#Choice4
+4
+#CorrectAnswer
+
+What is the Defeat-In-Detail better known as?
+#QuizQuestion
+Divide and Conquer.
+#Choice1
+Reverse Slope Defence.
+#Choice2
+Encirclement.
+#Choice3
+Infiltration.
+#Choice4
+1
+#CorrectAnswer
+
+Which is an example of Defeat-In-Detail?
+#QuizQuestion
+You defeat three enemy units A, B, and C all at once.
+#Choice1
+You encircle all three with enemy units A, B, and C.
+#Choice2
+You focus your forces to defeat enemy unit A, then B, then C.
+#Choice3
+You lay an ambush for all three enemy units A, B< and C.
+#Choice4
+3
+#CorrectAnswer

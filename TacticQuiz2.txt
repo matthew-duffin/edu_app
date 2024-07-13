@@ -1,0 +1,51 @@
+Which type of encirclement involves air-landing?
+#QuizQuestion
+Single
+#Choice1
+Vertical
+#Choice2
+Via pocket
+#Choice3
+Pincer
+#Choice4
+2
+#CorrectAnswer
+
+What advantage does encirclement create?
+#QuizQuestion
+High casualties for the attacking force.
+#Choice1
+Delaying and spreading out the enemy.
+#Choice2
+Ruining enemy morale.
+#Choice3
+It only requires one individual.
+#Choice4
+3
+#CorrectAnswer
+
+The Battle of Salamis was a naval battle fought in 480 BC, between an alliance of Greek city-states under Themistocles, and the Persian Empire under King Xerxes. The Persians attempted to use encirclement by blocking both the Saronic Gulf to the south and Corinthian Isthmus to the north. What type of encirclement is this?
+#QuizQuestion
+Vertical
+#Choice1
+Pincer
+#Choice2
+Via pocket
+#Choice3
+Single
+#Choice4
+2
+#CorrectAnswer
+
+Since the effect of encirclement is largely psychological, what is one disadvantage of encirclement?
+#QuizQuestion
+Lower morale may lead to increased ferocity from the enemy.
+#Choice1
+Reduced casualties of the attacking force.
+#Choice2
+Encirclement only requires one individual.
+#Choice3
+There are no disadvantages.
+#Choice4
+1
+#CorrectAnswer

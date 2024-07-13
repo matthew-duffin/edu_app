@@ -1,0 +1,27 @@
+Ambush is an offensive military tactic, and it is utilized by employing a surprise assault from a concealed location
+ on a stationary or moving target. This can vary in magnitude as a single individual or an entire squadron can carry
+ it out. The primary focus is on crippling the enemy’s forces, so an ambush may not conquer enemy ground.
+###
+Encirclement/Envelopment is a military tactic in which several enveloping forces constrict around the flank(s)
+ of the enemy, attacking at multiple angles and preventing retreat, while a fixed force draws enemy hostility from
+ the front and fixes them in place for the enveloping forces to attack optimally with minimal enemy pressure.
+ Successful implementation of this tactic reduces casualties of the attacking force while inflicting damage to
+ enemy morale.
+###
+Defeat-in-detail is a military tactic that consists of bringing a bulk of units that deliver a concentrated attack
+ towards small subunits of the enemy’s force in sequence rather than the whole army all at once. This tactic is
+ better known as divide and conquer.
+###
+Defense In Depth (also known as Elastic Defense) is a strategy where defensive forces are deployed
+ across multiple layers. Rather than seeking to stop the enemy outright, like with a traditional frontline,
+ defenders seek to delay and spread-out attackers to break the attack’s momentum and provide time for
+ reinforcements. Though the enemy gains ground, it’s at the cost of additional casualties and weakening
+ their position.
+###
+Infiltration is a category of tactics which involves a small, mobile group of soldiers who bypass the
+ enemy’s front line. Their high degree of independence allows them to exploit the enemy’s weak points,
+ potentially opening up their strongholds for capture from frontline forces.
+###
+In a feigned retreat, your army will pretend to withdraw to lure the enemy into a vulnerable position,
+ often an ambush. This tactic requires disciplined troops to prevent the retreat from becoming genuine.
+###

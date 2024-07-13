@@ -1,0 +1,113 @@
+<html>
+    <ul>
+        <li>
+There are three forms of ambushes: anti-armor, point, and area.
+            <ul>
+                <li>
+Anti-armor ambushes focus on debilitating the enemy’s armored vehicles.
+                </li>
+                <li>
+Point ambushes deploy soldiers to attack at one strategic site.
+                </li>
+                <li>
+Area ambushes utilize multiple related point ambushes.
+                </li>
+            </ul>
+        </li>
+        <li>
+Good ambush sites (areas where an ambush occurs for point ambushes in particular) are defined with the
+ characteristics of having protective obstacles, good cover, ease of withdrawal, and clear visage to where
+ the enemy will be.
+        </li>
+        <li>
+Ambushes are often composed of a lead and rear-blocking force, a main assault force, observation towers,
+ and a command post.
+        </li>
+    </ul>
+</html>
+###
+<html>
+    <ul>
+        <li>
+There are four primary types of encirclement/envelopment:
+            <ul>
+                <li>
+Single envelopment / flanking maneuver has one enveloping force striking the enemy’s flank.
+                </li>
+                <li>
+A pincer movement consists of two simultaneous single envelopments.
+                </li>
+                <li>
+Envelopment via pocket occurs when enemy forces are split off and isolated from their main forces.
+ Allied forces may opt for a direct attack or block off the enemy supply chain until their forces are
+ exhausted and force a surrender.
+                </li>
+                <li>
+Vertical envelopment occurs when air-dropped or air-landed troops attack enemy flank(s), encircling them.
+                </li>
+            </ul>
+        </li>
+        <li>
+Unlike other more straight-forward tactics, a successfully pulled off envelopment / encirclement can serve as a
+ disrupter in enemy forces even outside of active combat as it focuses not only on destroying enemy forces but
+ also crippling their will to fight.
+        </li>
+    </ul>
+</html>
+###
+<html>
+    <ul>
+        <li>
+This tactic focuses on breaking enemy coordination between subunits to win many small battles.
+        </li>
+        <li>
+The following methods help facilitate a successful defeat-in-detail: quick attacks that hinder enemy response time,
+ targeting an enemy subunit that is more remote from defending units (hence giving little opportunity for
+ counterattack), and disrupting the enemy’s communication network.
+        </li>
+    </ul>
+</html>
+###
+<html>
+    <ul>
+        <li>
+Different types of defenses can be used at each layer to focus on stopping specific kinds of enemies.
+ For example, one layer might have wire entanglements to stop foot soldiers, while another might use
+ ‘dragon’s teeth’ (small pyramids of reinforced concrete) to stop tanks.
+        </li>
+        <li>
+This tactic is an effective defense against concentrated soldiers, but it may not be a viable strategy
+ if valuable resources are close to the front line.
+        </li>
+        <li>
+The concept of multilayered protection used in defense in depth has inspired uses in other fields,
+ such as nuclear engineering and information security.
+        </li>
+    </ul>
+</html>
+###
+<html>
+    <ul>
+        <li>
+At the beginning of WWI, the German’s used specialized Stoßtruppen (storm troops) to do
+ infiltration missions.
+        </li>
+        <li>
+Heavy artillery fire was often used to create weak points, which infiltrating units could exploit.
+        </li>
+    </ul>
+</html>
+###
+<html>
+    <ul>
+        <li>
+Sun Tzu warned about this tactic in The Art of War: "Do not pursue an enemy who simulates flight."
+        </li>
+        <li>
+The Mongols were known to frequently use this tactic, enough that their enemies began to anticipate
+ the trap. The Mongols would extend the duration of their retreat for days or even weeks while waiting
+ for their pursuers to drop their guards before ultimately pivoting back to attack.
+        </li>
+    </ul>
+</html>
+###

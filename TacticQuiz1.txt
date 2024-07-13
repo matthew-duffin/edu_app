@@ -1,0 +1,51 @@
+What is an ambush?
+#QuizQuestion
+Sabotaging the enemy by destroying supplies.
+#Choice1
+A surprise attack from a concealed location.
+#Choice2
+An extended period of long-ranged bombardment.
+#Choice3
+A frontal assault.
+#Choice4
+2
+#CorrectAnswer
+
+Which of the following is not a form of an ambush?
+#QuizQuestion
+Anti-armor.
+#Choice1
+Point.
+#Choice2
+Intervention
+#Choice3
+Area
+#Choice4
+3
+#CorrectAnswer
+
+Which of the following is not a key objective of an ambush?
+#QuizQuestion
+Harassing enemy forces.
+#Choice1
+Halting an advancing force.
+#Choice2
+Destroying high-priority targets.
+#Choice3
+Capturing cover and territory.
+#Choice4
+4
+#CorrectAnswer
+
+What is required to set up an ambush?
+#QuizQuestion
+Information about targets, enemy locations, and equipment carried.
+#Choice1
+Superior numbers.
+#Choice2
+Concealed positions with cover.
+#Choice3
+Chokepoints with concentrated enemy forces.
+#Choice4
+3
+#CorrectAnswer

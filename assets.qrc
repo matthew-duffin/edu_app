@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>circle_friend.png</file>
+        <file>circle_enemy.png</file>
+        <file>ambush.csv</file>
+        <file>encirclementBackground.png</file>
+        <file>encirclement.csv</file>
+        <file>defeatInDetailBackground.png</file>
+        <file>defeatInDetail.csv</file>
+        <file>ambushBackground.png</file>
+        <file>TacticQuiz1.txt</file>
+        <file>TacticQuiz2.txt</file>
+        <file>TacticQuiz3.txt</file>
+        <file>TacticQuiz4.txt</file>
+        <file>TacticQuiz5.txt</file>
+        <file>TacticQuiz6.txt</file>
+        <file>TacticDescriptions.txt</file>
+        <file>TacticFunFacts.txt</file>
+        <file>TacticHistory.txt</file>
+        <file>elasticDefense.csv</file>
+        <file>elasticDefenseBackground.png</file>
+        <file>infiltrationBackground.png</file>
+        <file>infiltration.csv</file>
+        <file>feignedRetreatBackground.png</file>
+        <file>feignedRetreat.csv</file>
+        <file>target.png</file>
+    </qresource>
+</RCC>
